@@ -1,9 +1,17 @@
 {
+	"person": [
+		{}
+	],
 	"user": [
 		{
 			"name": "Test1",
 			"email": "Test1@hotmail.com",
 			"birthday": "2018-02-02"
+		},
+		{
+			"name": "Test2",
+			"email": "Test2@hotmail.com",
+			"birthday": "1999-08-02"
 		}
 	]
 }
