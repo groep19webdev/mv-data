@@ -32,7 +32,9 @@
 			"description": "Party hard",
 			"startDate": "2018-05-09T22:00",
 			"endDate": "2018-05-10T06:00",
-			"attending_user": []
+			"attending_user": [
+				"User Userman"
+			]
 		}
 	]
 }
